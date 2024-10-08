@@ -1,0 +1,24 @@
+* {
+ margin:0;
+ padding:0;
+box-sizing: border-box;
+font-family:gilroy;
+}
+html,
+body{
+  width: 100%;
+height: 100%;
+ background-color: #111;
+ align-items: center;
+ justify-content: center;
+}
+#string path{
+    height: 300px;
+    width:100%;
+    
+    /* background-color: red; */
+}
+#svg{
+  
+   
+}
